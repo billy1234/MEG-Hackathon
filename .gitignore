@@ -1,0 +1,6 @@
+data/
+HCP/
+MOUS/
+__pycache__/
+.ipynb_checkpoints/
+meg-data.zip
